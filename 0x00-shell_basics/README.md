@@ -1,1 +1,1 @@
-3-listfiles lists files in a long format
+Script to print all files long format
