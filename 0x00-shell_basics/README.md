@@ -1,1 +1,1 @@
-Script to display the absolute working directory
+1-list_it Script lists contents of current dir 
