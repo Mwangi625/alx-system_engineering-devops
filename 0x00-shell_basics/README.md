@@ -1,1 +1,1 @@
-1-list_it Script lists contents of current dir 
+2-bring_me_home Script returns to home dir
