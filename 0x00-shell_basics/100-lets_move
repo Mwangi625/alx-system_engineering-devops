@@ -1,2 +1,2 @@
 #!/bin/bash
-mv [A-Z]*.html /tmp/u
+mv [B-Z]*.html /tmp/u
